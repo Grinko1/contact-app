@@ -1,0 +1,72 @@
+.contact__item {
+  width: 300px;
+  border: 1px solid rgba(22, 9, 139, 0.329);
+  border-radius: 5px;
+  margin: auto;
+  position: relative;
+  transition:  all 0.3s;
+  z-index: 0;
+
+  p {
+    text-align: start;
+    padding-left: 30px;
+  }
+  .contact__btns{
+      display: none;
+  }
+  .modal__name{
+    text-align: center;
+  }
+  .modal__btns{
+    display: flex;
+    margin-top: 50px;
+    align-items: center;
+    justify-content: space-around;
+      .modal__btn{
+        background-color: white;
+        font-size: 18px;
+        padding: 5px;
+        border-radius: 5px;
+        font-weight: 500;
+        width: 100px;
+      }
+      .delete{
+        border: 1px solid red;
+        color: red;
+      }
+      .cancel{
+        border: 1px solid green;
+        color: green;
+      }
+  }
+}
+.contact__hidden{
+    display: none;
+}
+.contact__item:hover{
+    .contact__btns{
+    
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        position: absolute;
+        top: -10px;
+        right:-10px;
+  
+        .contact__btn{
+          margin-right: 5px;
+          font-size: 14px;
+          font-weight: 500;
+          padding: 2px 3px 0 3px;
+          border-radius: 50%;
+          color: white;
+          cursor: pointer;
+        }
+        .edit{
+            background-color:rgb(3, 141, 3) ;
+        }
+        .delete{
+            background-color: rgb(230, 2, 2);
+        }
+    }
+}

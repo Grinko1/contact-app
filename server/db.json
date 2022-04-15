@@ -1,0 +1,181 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Leanne Grahams",
+      "phone": "1-770-736-8031 x56442",
+      "email": "Sincere@april.biz",
+      "website": "hildegard.org"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "phone": " 010-692-6593 x09125",
+      "email": "Shanna@melissa.tv",
+      "website": "anastasia.net"
+    },
+    {
+      "id": 3,
+      "name": "Patricia Lebsaro",
+      "phone": "493-170-9623 x156",
+      "email": "Julianne.OConner@kory.org",
+      "website": "kale.biz"
+    },
+    {
+      "id": 4,
+      "name": "Clementine Bauch",
+      "phone": "1-463-123-4447",
+      "email": "Nathan@yesenia.net",
+      "website": "ramiro.info"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "phone": "(254)954-1289",
+      "email": "Lucio_Hettinger@annie.ca",
+      "website": "demarco.info"
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "phone": "1-477-935-8478 x6430",
+      "email": "Karley_Dach@jasper.info",
+      "website": "ola.org"
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "phone": "210-067-6132",
+      "email": "Telly.Hoeger@billy.biz",
+      "website": "elvis.io"
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "phone": "586-493-6943 x140",
+      "email": "Sherwood@rosamond.me",
+      "website": "jacynthe.com"
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "phone": "(775)976-6794 x41206",
+      "email": "Chaim_McDermott@dana.io",
+      "website": "conrad.com"
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "phone": "024-648-3804",
+      "email": "Rey.Padberg@karina.biz",
+      "website": "ambrose.net"
+    },
+    {
+      "id": 11,
+      "name": "Liana Grahane",
+      "phone": "1-770-736-8031 6442",
+      "email": "Liana@april.biz",
+      "website": "ildegard.org"
+    },
+    {
+      "id": 12,
+      "name": "Kevin Haris",
+      "phone": "021-123-455-0907",
+      "email": "Kevin@home.tv",
+      "website": "alonehome.net"
+    },
+    {
+      "id": 13,
+      "name": "Harry Lebowsky",
+      "phone": "493-170-3486 x156",
+      "email": "Lebowsky.OConner@kory.org",
+      "website": "lebowsky.biz"
+    },
+    {
+      "id": 14,
+      "name": "Kristian Baer",
+      "phone": "2-363-523-6647",
+      "email": "Kristian@yesenia.net",
+      "website": "kristian.info"
+    },
+    {
+      "id": 15,
+      "name": "Chack Loremes",
+      "phone": "7(154)854-1289",
+      "email": "Loren_Hettinger@annie.ca",
+      "website": "loren.info"
+    },
+    {
+      "id": 16,
+      "name": "Mrs. Dawid Liter",
+      "phone": "1-988-346-8478 x6430",
+      "email": "Liter@jasper.info",
+      "website": "literola.org"
+    },
+    {
+      "id": 17,
+      "name": "Dacota Peris",
+      "phone": "210 -067-5632",
+      "email": "Dacota.Hoeger@billy.biz",
+      "website": "delvis.io"
+    },
+    {
+      "id": 18,
+      "name": "Nicholas Abraham",
+      "phone": "586-493-1456 x140",
+      "email": "Nicholas@rosamond.me",
+      "website": "nicholas.com"
+    },
+    {
+      "id": 1650010125414,
+      "name": "Larisa Petrova",
+      "phone": "123445666",
+      "email": "jgcjfdjs@fggfx.jbjb",
+      "website": "kjsdkjsfv.com"
+    },
+    {
+      "id": 1650012658226,
+      "name": "Kewis Davysan",
+      "phone": "7483t2908",
+      "email": "ekanek@kdms.com",
+      "website": "dskjcbdjkv.cds"
+    },
+    {
+      "id": 1650012790812,
+      "name": "Kriss Stem ",
+      "phone": "0843787023",
+      "email": "sdcksfnv@sjd.com",
+      "website": "sdvbvkj.ri"
+    },
+    {
+      "id": 1650017207606,
+      "name": "Sofia Monseratte",
+      "phone": "974972672",
+      "email": "dvbhsdjv@jfbv.com",
+      "website": "jgcutgj.com"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "user@mail.com",
+      "password": "qwerty"
+    },
+    {
+      "id": 1649903792268,
+      "email": "user1@mail.com",
+      "password": "qwerty"
+    },
+    {
+      "id": 1649904459595,
+      "email": "user2@mail.com",
+      "password": "qwerty"
+    },
+    {
+      "id": 1649904962201,
+      "email": "user2@adkj.adc",
+      "password": "qwerty"
+    }
+ 
+  ]
+}

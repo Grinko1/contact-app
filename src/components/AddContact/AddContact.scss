@@ -1,0 +1,28 @@
+.addContact{
+    .addContact__header{
+        text-align: center;
+        color: rgb(25, 25, 248);
+    }
+    .addContact__form{
+        width: 300px;
+        margin: auto;
+        .addContact__error{
+            width: 280px;
+            margin: auto;
+            text-align: center;
+            color: red;
+        }
+        .addContact__btn{
+            padding: 10px;
+            width: 50%;
+            margin: 20px 25% ;
+            border: none;
+            background-color: rgba(4, 4, 253, 0.993);
+            color: white;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: 700;
+            letter-spacing: 1px;
+        }
+    }
+}
