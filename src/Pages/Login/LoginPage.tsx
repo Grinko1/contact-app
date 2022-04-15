@@ -7,7 +7,7 @@ const LoginPage:FC = () => {
     return (
         <>
             <Login
-            header='Login'
+            header='Вход'
             btnName='Войти'
             accountQuestion='Нет аккаунта'
             link='/register'
