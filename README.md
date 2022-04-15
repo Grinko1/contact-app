@@ -1,5 +1,3 @@
-
-
-### `npm start`
-
+Для запуска 
 ### `npm run server`
+### `npm start`
